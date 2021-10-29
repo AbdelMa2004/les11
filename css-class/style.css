@@ -2,3 +2,12 @@ body {
     background-color: lightgreen;
     color: honeydew;
 }
+.container, .container-cheet{
+    padding: 10px;
+    margin: 10px;
+    border: red 2px solid;
+}
+
+.cheat-black{
+    color: black;
+}
