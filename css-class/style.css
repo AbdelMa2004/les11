@@ -1,13 +1,25 @@
-body {
-    background-color: lightgreen;
-    color: honeydew;
+h1 {
+    color: lightgreen;
 }
-.container, .container-cheet{
-    padding: 10px;
-    margin: 10px;
-    border: red 2px solid;
+p {
+    color: black;
 }
 
+.cheat, .container-cheat {
+    background-color: white;
+    color: lightgreen;
+    padding: 20px;
+    margin: 20px;
+    border: 5px solid lightgreen;
+   
+}
+.container, .container-sheet{
+    background-color: white;
+    color: lightgreen;
+    padding: 20px;
+    margin: 20px;
+    border: 5px solid lightgreen;
+}
 .cheat-black{
     color: black;
 }
